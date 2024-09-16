@@ -1,4 +1,4 @@
-```markdown
+
 # Razorpay Website Clone
 
 This repository contains a clone of the Razorpay website built using **HTML** and **Tailwind CSS**. The purpose of this project is to replicate the Razorpay landing page UI to practice web development skills with modern front-end technologies.
